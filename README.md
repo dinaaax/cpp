@@ -5,3 +5,4 @@ In our project you will find:
 - styles
 - design
 - code
+my text in readme
