@@ -6,3 +6,4 @@ In our project you will find:
 - design
 - code
 my text in readme
+Additional info here
