@@ -1,7 +1,7 @@
 #c++ project
-## our project is very easy
+## Our project is very easy
 
-In out project you will find:
+In our project you will find:
 - styles
 - design
 - code
