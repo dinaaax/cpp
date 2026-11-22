@@ -1,14 +1,13 @@
-//
-//  main.cpp
-//  4
-//
-//  Created by MacBookAir on 14.11.2026.
-//
-
 #include <iostream>
+#include "FilesWork.h"
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
-    return EXIT_SUCCESS;
+int main() {
+    FilesWork file("some.txt");
+    file.write_file("new text");
+    file.read_file();
+
+    file += "!!!";
+    file.read_file();
+
+    return 0;
 }
